@@ -29,5 +29,4 @@ Este projeto trata-se de uma aplicação para verificar se um ano é bissexto, a
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
